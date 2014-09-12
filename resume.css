@@ -1,0 +1,8 @@
+body { font: 14pt Times New Roman; color: black; background-color: blue; }
+
+#header {width: 100%; height:50px;}
+#resume{width 950px; height: 1000px; text- align: left; border-top: 2px solid #ddd; padding: 5px 5px; margin: 0 auto;}
+
+h5 {font-weight: bold; font-size: 2em;}
+h6 {font-size: 1.5em; }
+h7 {font-size: 10pt; }
